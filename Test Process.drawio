@@ -1,0 +1,105 @@
+<mxfile host="app.diagrams.net" modified="2023-05-03T10:14:17.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="aM-QhCSwg3eun1n6OopI" version="21.2.6" type="device">
+  <diagram name="Page-1" id="q_tm8r_kzsI_LRFnxSSV">
+    <mxGraphModel dx="794" dy="729" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="701.3333129882812" as="sourcePoint" />
+            <mxPoint x="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="130" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-11" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4lIwkN1X-zCv-SZ6ix2P-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-7" value="Develop User Story" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="130" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-12" value="Write Unit Tests" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="190" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-15" value="Write High Level Test Scenarios" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="402" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.592;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="4lIwkN1X-zCv-SZ6ix2P-14" target="4lIwkN1X-zCv-SZ6ix2P-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-14" value="Write Acceptance Tests" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="266" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-21" value="Write Mocks" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="70" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-25" value="Story Desk Check" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="372" y="204" width="86" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-33" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4lIwkN1X-zCv-SZ6ix2P-15" target="4lIwkN1X-zCv-SZ6ix2P-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="290" as="sourcePoint" />
+            <mxPoint x="360" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-32" value="Write API Feature Files" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="372" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4lIwkN1X-zCv-SZ6ix2P-40" target="4lIwkN1X-zCv-SZ6ix2P-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-40" value="Write Unit Tests" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="190" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4lIwkN1X-zCv-SZ6ix2P-42" target="4lIwkN1X-zCv-SZ6ix2P-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-42" value="All Tests Passed" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="276" y="204" width="86" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-47" value="Merge/Package Feature Code/Ready to Deploy&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="492" y="204" width="108" height="64.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-46" value="Deploy Code" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="492" y="300" width="100" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-429" value="ST Test Execution with Mocks" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="552" y="437" width="76" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-430" value="Automation Test code merge" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="648" y="392" width="108" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-434" value="Promote Code into SIT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="744" y="336" width="72" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-435" value="Write ST Feature Files" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="446" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-436" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="4lIwkN1X-zCv-SZ6ix2P-15" target="4lIwkN1X-zCv-SZ6ix2P-435" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="212" y="434" as="sourcePoint" />
+            <mxPoint x="252" y="404" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-438" value="Mocked Downstream/&lt;br&gt;Upstream" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="396" y="367.5" width="76" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-439" value="Mocked Downstream/&lt;br&gt;Upstream" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="396" y="446" width="76" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-440" value="Execute API Tests&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="544" y="367.5" width="76" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-441" value="Label Story(ST or SIT)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="73" y="-4" width="144" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="4lIwkN1X-zCv-SZ6ix2P-442" value="User Story" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="112" y="32" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
