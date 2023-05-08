@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T02:46:24.586Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="6Tw3ubJpZZ6aycKWVSPw" version="21.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-08T02:56:04.514Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0RF8DHOqh2ps-3S7_GAI" version="21.2.7" type="github" pages="3">
   <diagram name="Page-1" id="q_tm8r_kzsI_LRFnxSSV">
     <mxGraphModel dx="1242" dy="1569" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -152,121 +152,6 @@
         <mxCell id="J1gwfrPurb7ot6Kf6leD-21" value="Exploratory Tests" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-91" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="640" y="110" width="410" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-92" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-91">
-          <mxGeometry width="410" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-93" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-92">
-          <mxGeometry width="82" height="65" as="geometry">
-            <mxRectangle width="82" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-94" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-92">
-          <mxGeometry x="82" width="82" height="65" as="geometry">
-            <mxRectangle width="82" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-95" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-92">
-          <mxGeometry x="164" width="82" height="65" as="geometry">
-            <mxRectangle width="82" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-96" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-92">
-          <mxGeometry x="246" width="82" height="65" as="geometry">
-            <mxRectangle width="82" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-97" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-92">
-          <mxGeometry x="328" width="82" height="65" as="geometry">
-            <mxRectangle width="82" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-98" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-91">
-          <mxGeometry y="65" width="410" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-99" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-98">
-          <mxGeometry width="82" height="65" as="geometry">
-            <mxRectangle width="82" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-100" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-98">
-          <mxGeometry x="82" width="82" height="65" as="geometry">
-            <mxRectangle width="82" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-101" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-98">
-          <mxGeometry x="164" width="82" height="65" as="geometry">
-            <mxRectangle width="82" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-102" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-98">
-          <mxGeometry x="246" width="82" height="65" as="geometry">
-            <mxRectangle width="82" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-103" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-98">
-          <mxGeometry x="328" width="82" height="65" as="geometry">
-            <mxRectangle width="82" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-104" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-91">
-          <mxGeometry y="130" width="410" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-105" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-104">
-          <mxGeometry width="82" height="65" as="geometry">
-            <mxRectangle width="82" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-106" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-104">
-          <mxGeometry x="82" width="82" height="65" as="geometry">
-            <mxRectangle width="82" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-107" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-104">
-          <mxGeometry x="164" width="82" height="65" as="geometry">
-            <mxRectangle width="82" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-108" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-104">
-          <mxGeometry x="246" width="82" height="65" as="geometry">
-            <mxRectangle width="82" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-109" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-104">
-          <mxGeometry x="328" width="82" height="65" as="geometry">
-            <mxRectangle width="82" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-110" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-91">
-          <mxGeometry y="195" width="410" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-111" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-110">
-          <mxGeometry width="82" height="65" as="geometry">
-            <mxRectangle width="82" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-112" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-110">
-          <mxGeometry x="82" width="82" height="65" as="geometry">
-            <mxRectangle width="82" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-113" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-110">
-          <mxGeometry x="164" width="82" height="65" as="geometry">
-            <mxRectangle width="82" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-114" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-110">
-          <mxGeometry x="246" width="82" height="65" as="geometry">
-            <mxRectangle width="82" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J1gwfrPurb7ot6Kf6leD-115" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="J1gwfrPurb7ot6Kf6leD-110">
-          <mxGeometry x="328" width="82" height="65" as="geometry">
-            <mxRectangle width="82" height="65" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -276,82 +161,82 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-2" value="ST Tester" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-20" width="30" height="60" as="geometry" />
+          <mxGeometry x="20" y="-360" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-5" value="User Story" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-190" width="110" height="60" as="geometry" />
+          <mxGeometry x="20" y="-530" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-6" value="Acceptance Criteria 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9Xu_tnaSdeN9vplkOjTr-5">
           <mxGeometry y="30" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" as="sourcePoint" />
-            <mxPoint x="150" as="targetPoint" />
+            <mxPoint x="50" y="-340" as="sourcePoint" />
+            <mxPoint x="130" y="-340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9Xu_tnaSdeN9vplkOjTr-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" as="targetPoint" />
-            <mxPoint x="290" y="1" as="sourcePoint" />
+            <mxPoint x="330" y="-340" as="targetPoint" />
+            <mxPoint x="270" y="-339" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="290" y="2" />
-              <mxPoint x="320" y="2" />
-              <mxPoint x="320" />
+              <mxPoint x="270" y="-338" />
+              <mxPoint x="300" y="-338" />
+              <mxPoint x="300" y="-340" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-12" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Create a corresponding Test Card&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Label it as ST , SIT&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Link back to the actual Story Card&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="150" y="-60" width="170" height="100" as="geometry" />
+          <mxGeometry x="130" y="-400" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-13" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;Tester to put a label as ST , SIT ,SVT&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-220" width="190" height="120" as="geometry" />
+          <mxGeometry x="240" y="-560" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-17" target="9Xu_tnaSdeN9vplkOjTr-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-17" value="Write High Level Test Scenarios" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-30" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="-370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-18" target="9Xu_tnaSdeN9vplkOjTr-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-18" value="Create Feature File and Test Code&lt;br&gt;&amp;nbsp;Tag with the corresponding Test Card&lt;br&gt;Tag Scenarios with ST or SIT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-30" width="170" height="76" as="geometry" />
+          <mxGeometry x="670" y="-370" width="170" height="76" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.015;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-23" target="9Xu_tnaSdeN9vplkOjTr-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-23" value="Create a Feature Branch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-30" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="-370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-29" value="Desk Check Completed&lt;br&gt;Story Ready for testing" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="-100" width="80" height="30" as="geometry" />
+          <mxGeometry x="1000" y="-440" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-30" target="9Xu_tnaSdeN9vplkOjTr-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1090" y="135" as="targetPoint" />
+            <mxPoint x="1070" y="-205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-30" value="Set up Backend Mocks/Stubs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="105" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="-235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-31" target="9Xu_tnaSdeN9vplkOjTr-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-31" value="Deploy Code into ST" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="105" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="-235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-33" target="9Xu_tnaSdeN9vplkOjTr-41">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="120" as="targetPoint" />
+            <mxPoint x="450" y="-220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-33" value="Execute tests with ST tag in ST env" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="105" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="-235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-41" target="9Xu_tnaSdeN9vplkOjTr-42">
           <mxGeometry relative="1" as="geometry" />
@@ -360,94 +245,91 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-41" value="Tests Passed" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="90" width="90" height="90" as="geometry" />
+          <mxGeometry x="310" y="-250" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-42" target="9Xu_tnaSdeN9vplkOjTr-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-42">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="380" as="targetPoint" />
+            <mxPoint x="80" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-42" value="Merge Automation Code feature branch into Develop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="105" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="-235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-43" value="Close Test Card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-44" target="9Xu_tnaSdeN9vplkOjTr-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-44" value="Create/Reopen Defect and ensure linking back to JIRA Story" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="295" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.679;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-45" target="9Xu_tnaSdeN9vplkOjTr-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-45" value="Defect Fixed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="491" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="471" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-46" target="9Xu_tnaSdeN9vplkOjTr-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-46" value="Execute Failed Tests" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="195" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="-145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-58" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="90" width="30" height="30" as="geometry" />
+          <mxGeometry x="270" y="-250" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-59" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="165" width="30" height="30" as="geometry" />
+          <mxGeometry x="360" y="-175" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-68" value="&amp;nbsp;Story with ST tag" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="195" width="120" height="30" as="geometry" />
+          <mxGeometry x="180" y="-145" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-70" target="9Xu_tnaSdeN9vplkOjTr-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-70" value="Deploy Package into SIT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="195" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="-145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-72">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="965" y="100" as="targetPoint" />
+            <mxPoint x="945" y="-240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-72" target="9Xu_tnaSdeN9vplkOjTr-70">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1090" y="210" as="targetPoint" />
+            <mxPoint x="1070" y="-130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-72" value="Tag" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="-37" width="90" height="90" as="geometry" />
+          <mxGeometry x="900" y="-377" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-73" value="ST" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="930" y="46" width="40" height="30" as="geometry" />
+          <mxGeometry x="910" y="-294" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-75" value="SIT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1025" y="-25" width="40" height="30" as="geometry" />
+          <mxGeometry x="1005" y="-365" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-77" target="9Xu_tnaSdeN9vplkOjTr-41">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="140" as="targetPoint" />
+            <mxPoint x="580" y="-200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="600" y="225" />
-              <mxPoint x="600" y="135" />
+              <mxPoint x="580" y="-115" />
+              <mxPoint x="580" y="-205" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-77" value="Execute tests with SIT tag in SIT env" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="195" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="-145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-81" value="Schedule Daily Nightly Run for ST in ST envs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-89" value="Merge code with Stub Repo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="105" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9Xu_tnaSdeN9vplkOjTr-90" value="ST Tests will be exhaustive to cover positive and negative scenarios and will have corresponding Stub Data&amp;nbsp;&lt;br&gt;&lt;br&gt;ST Tests will be smaller tests targeted to the feature&lt;br&gt;&lt;br&gt;SIT tests are e2e tests with actual service covering critical scenarios&lt;br&gt;&lt;br&gt;Quality Gates or Pre-ST entry&lt;br&gt;&lt;br&gt;Testers to participate in grooming and planning sessions&lt;br&gt;Identify any gaps along with the BAs , DLs and Devs&lt;br&gt;High level estimate of the Test effort captured- Test effort to include - Test Planning/Scenario elicitation, Test data/Stub set up ,Automated test script development,Automated test execution and defect coordination&lt;br&gt;Tester to share High level test scenarios with the BAs to review and Dev to have a view&lt;br&gt;Tester has put a label on the story if it requires ST or SIT or SVT ,any 2 or all in confirmation with the DL/PO and BAs&lt;br&gt;&lt;br&gt;Entry Criteria ST:&lt;br&gt;&lt;br&gt;Successful Desk Check conducted by Dev in the Dev env to show the Acceptance criteria/Story working&lt;br&gt;Completed Unit test and acceptance tests for the story by the dev&lt;br&gt;Testers to complete&lt;br&gt;&lt;br&gt;Exit Criteria ST&lt;br&gt;Tester has successfully executed the Story with no defects/issues open&lt;br&gt;Test code for the story has been automated and checked in the Automation repo&lt;br&gt;Tester has ensured the nightly Automated test run has passed and no tests have been broken because of the change&lt;br&gt;Clear mapping of ST test card/Automated Tests/Defects to User story has been done&lt;br&gt;&lt;br&gt;Entry to SIT&lt;br&gt;All User stories tagged for a release are ST test complete with appropriate level of automated tests&lt;br&gt;For stories requiring SIT , story has been tested in ST partially(connect components) and automation for them is complete&lt;br&gt;No High severity or high priority defects outstanding in ST&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="-790" width="620" height="190" as="geometry" />
+          <mxGeometry x="1070" y="-235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-91" target="9Xu_tnaSdeN9vplkOjTr-94">
           <mxGeometry relative="1" as="geometry" />
@@ -456,31 +338,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-91" value="SIT Tester" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="440" width="30" height="60" as="geometry" />
+          <mxGeometry x="30" y="100" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-94" target="9Xu_tnaSdeN9vplkOjTr-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-94" value="Analyse Stories Marked for SIT and Release" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-95" target="9Xu_tnaSdeN9vplkOjTr-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-95" value="Write SIT Test Plan and Scenarios" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-96" target="9Xu_tnaSdeN9vplkOjTr-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-96" value="Develop SIT Automated Test Scripts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-97" target="9Xu_tnaSdeN9vplkOjTr-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-97" value="Shakeout SIT Envs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-98" target="9Xu_tnaSdeN9vplkOjTr-99">
           <mxGeometry relative="1" as="geometry" />
@@ -489,75 +371,75 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-98" value="Run progression and regression test Execution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-99" target="9Xu_tnaSdeN9vplkOjTr-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-99">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1110" y="450" as="targetPoint" />
+            <mxPoint x="1090" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-99" value="Publish Test Reports&lt;br&gt;Write and get approval for Release documentation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="950" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-101" target="9Xu_tnaSdeN9vplkOjTr-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-101" value="Analyse Incidents" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-103" target="9Xu_tnaSdeN9vplkOjTr-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-103" value="Run Regression to support other services/initiatives" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="1110" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-114" value="Close SIT Test Card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1049" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="1029" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-115" value="Close Support Card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="1260" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-117" value="Follow Defect Management Process for any defects in SIT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-119" target="9Xu_tnaSdeN9vplkOjTr-120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-119" value="SVT Tester" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="630" width="30" height="60" as="geometry" />
+          <mxGeometry x="30" y="290" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-120" target="9Xu_tnaSdeN9vplkOjTr-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-120" value="Analyze SVT requirements for Release" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-121" target="9Xu_tnaSdeN9vplkOjTr-122">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-121" value="Write SVT Test Plan/Strategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-122" target="9Xu_tnaSdeN9vplkOjTr-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-122" value="Set Up test Data/Stub Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-123" target="9Xu_tnaSdeN9vplkOjTr-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-123" value="Develop SVT Scripts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-124" target="9Xu_tnaSdeN9vplkOjTr-126">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-124" value="Run SVT Scripts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="830" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-125" target="9Xu_tnaSdeN9vplkOjTr-128">
           <mxGeometry relative="1" as="geometry" />
@@ -566,19 +448,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-125" value="Run Regression to support incidents/ other services/initiatives" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-126" target="9Xu_tnaSdeN9vplkOjTr-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-126" value="Publish Test Reports&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Write and get approval for Release documentation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-127" value="Close SVT Test Card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="1180" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-128" value="Close Support Card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="1180" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hIYmMCQXAi63nogeOfz-1" value="ST Tests will be exhaustive to cover positive and negative scenarios and will have corresponding Stub Data&amp;nbsp;&lt;br&gt;&lt;br&gt;ST Tests will be smaller tests targeted to the feature&lt;br&gt;&lt;br&gt;SIT tests are e2e tests with actual service covering critical scenarios&lt;br&gt;&lt;br&gt;Quality Gates or Pre-ST entry&lt;br&gt;&lt;br&gt;Testers to participate in grooming and planning sessions&lt;br&gt;Identify any gaps along with the BAs , DLs and Devs&lt;br&gt;High level estimate of the Test effort captured- Test effort to include - Test Planning/Scenario elicitation, Test data/Stub set up ,Automated test script development,Automated test execution and defect coordination&lt;br&gt;Tester to share High level test scenarios with the BAs to review and Dev to have a view&lt;br&gt;Tester has put a label on the story if it requires ST or SIT or SVT ,any 2 or all in confirmation with the DL/PO and BAs&lt;br&gt;&lt;br&gt;Entry Criteria ST:&lt;br&gt;&lt;br&gt;Successful Desk Check conducted by Dev in the Dev env to show the Acceptance criteria/Story working&lt;br&gt;Completed Unit test and acceptance tests for the story by the dev&lt;br&gt;Testers to complete base automation code in the automation repo&lt;br&gt;&lt;br&gt;Exit Criteria ST&lt;br&gt;Tester has successfully executed the Story with no defects/issues open&lt;br&gt;Test code for the story has been automated and checked in the Automation repo&lt;br&gt;Tester has ensured the nightly Automated test run has passed and no tests have been broken because of the change&lt;br&gt;Clear mapping of ST test card/Automated Tests/Defects to User story has been done&lt;br&gt;&lt;br&gt;Entry to SIT&lt;br&gt;All User stories tagged for a release are ST test complete with appropriate level of automated tests&lt;br&gt;For stories requiring SIT , story has been tested in ST partially(connect components) and automation for them is complete&lt;br&gt;No High severity or high priority defects outstanding in ST&lt;br&gt;Detailed Test Plan with e2e scenarios to be tested for SIT release has been signed off&lt;br&gt;Automated scripting for E2E Test Scripts for SIT is complete&lt;br&gt;SIT env shakeout is successful&lt;br&gt;&lt;br&gt;Exit Criteria:&lt;br&gt;All SIT tests executed with no outstanding issues/defects&lt;br&gt;Signed off TSR for the release&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-1430" width="620" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
