@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T02:56:04.514Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0RF8DHOqh2ps-3S7_GAI" version="21.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-08T03:08:32.973Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="tOK2_V-WQqHOdG1xllAV" version="21.2.7" type="github" pages="4">
   <diagram name="Page-1" id="q_tm8r_kzsI_LRFnxSSV">
     <mxGraphModel dx="1242" dy="1569" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -349,20 +349,25 @@
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-95" target="9Xu_tnaSdeN9vplkOjTr-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4-rN53ChEl8yOWOjLVZL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-95" target="4-rN53ChEl8yOWOjLVZL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-95" value="Write SIT Test Plan and Scenarios" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9Xu_tnaSdeN9vplkOjTr-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-96" target="9Xu_tnaSdeN9vplkOjTr-97">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="4-rN53ChEl8yOWOjLVZL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-96" value="Develop SIT Automated Test Scripts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9Xu_tnaSdeN9vplkOjTr-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-97" target="9Xu_tnaSdeN9vplkOjTr-98">
+        <mxCell id="4-rN53ChEl8yOWOjLVZL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-97" target="9Xu_tnaSdeN9vplkOjTr-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-97" value="Shakeout SIT Envs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-98" target="9Xu_tnaSdeN9vplkOjTr-99">
           <mxGeometry relative="1" as="geometry" />
@@ -421,7 +426,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-121" value="Write SVT Test Plan/Strategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Xu_tnaSdeN9vplkOjTr-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Xu_tnaSdeN9vplkOjTr-122" target="9Xu_tnaSdeN9vplkOjTr-123">
           <mxGeometry relative="1" as="geometry" />
@@ -465,6 +470,20 @@
         <mxCell id="5hIYmMCQXAi63nogeOfz-1" value="ST Tests will be exhaustive to cover positive and negative scenarios and will have corresponding Stub Data&amp;nbsp;&lt;br&gt;&lt;br&gt;ST Tests will be smaller tests targeted to the feature&lt;br&gt;&lt;br&gt;SIT tests are e2e tests with actual service covering critical scenarios&lt;br&gt;&lt;br&gt;Quality Gates or Pre-ST entry&lt;br&gt;&lt;br&gt;Testers to participate in grooming and planning sessions&lt;br&gt;Identify any gaps along with the BAs , DLs and Devs&lt;br&gt;High level estimate of the Test effort captured- Test effort to include - Test Planning/Scenario elicitation, Test data/Stub set up ,Automated test script development,Automated test execution and defect coordination&lt;br&gt;Tester to share High level test scenarios with the BAs to review and Dev to have a view&lt;br&gt;Tester has put a label on the story if it requires ST or SIT or SVT ,any 2 or all in confirmation with the DL/PO and BAs&lt;br&gt;&lt;br&gt;Entry Criteria ST:&lt;br&gt;&lt;br&gt;Successful Desk Check conducted by Dev in the Dev env to show the Acceptance criteria/Story working&lt;br&gt;Completed Unit test and acceptance tests for the story by the dev&lt;br&gt;Testers to complete base automation code in the automation repo&lt;br&gt;&lt;br&gt;Exit Criteria ST&lt;br&gt;Tester has successfully executed the Story with no defects/issues open&lt;br&gt;Test code for the story has been automated and checked in the Automation repo&lt;br&gt;Tester has ensured the nightly Automated test run has passed and no tests have been broken because of the change&lt;br&gt;Clear mapping of ST test card/Automated Tests/Defects to User story has been done&lt;br&gt;&lt;br&gt;Entry to SIT&lt;br&gt;All User stories tagged for a release are ST test complete with appropriate level of automated tests&lt;br&gt;For stories requiring SIT , story has been tested in ST partially(connect components) and automation for them is complete&lt;br&gt;No High severity or high priority defects outstanding in ST&lt;br&gt;Detailed Test Plan with e2e scenarios to be tested for SIT release has been signed off&lt;br&gt;Automated scripting for E2E Test Scripts for SIT is complete&lt;br&gt;SIT env shakeout is successful&lt;br&gt;&lt;br&gt;Exit Criteria:&lt;br&gt;All SIT tests executed with no outstanding issues/defects&lt;br&gt;Signed off TSR for the release&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="-1430" width="620" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="4-rN53ChEl8yOWOjLVZL-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4-rN53ChEl8yOWOjLVZL-1" target="9Xu_tnaSdeN9vplkOjTr-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4-rN53ChEl8yOWOjLVZL-1" value="Deploy Code into SIT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="U1W2PZHMdNNVmTXNap6Y" name="Page-4">
+    <mxGraphModel dx="1242" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
